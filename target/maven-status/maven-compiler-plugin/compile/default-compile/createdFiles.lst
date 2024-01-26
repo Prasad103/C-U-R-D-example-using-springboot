@@ -1,0 +1,5 @@
+com/example/curd/CurdApplication.class
+com/example/curd/repository/StudentRepository.class
+com/example/curd/service/StudentService.class
+com/example/curd/controller/StudentController.class
+com/example/curd/model/Student.class
